@@ -4,7 +4,6 @@
 > Built for **fast load times**, **clean design**, and **AI-driven projects**.
 
 [![Visit hrushibhatt.com](https://img.shields.io/badge/Visit-hrushibhatt.com-brightgreen?style=for-the-badge)](https://hrushibhatt.com)
-[![GitHub Repo](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/HrushiBhatt/Personal-Website)
 
 ---
 
@@ -19,7 +18,7 @@
 ## 🛠️ Tech Stack
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | HTML5, CSS3, Vanilla JavaScript |
+| **Frontend** | HTML5, CSS3, JavaScript |
 | **Design** | Responsive layout, modern typography |
 | **Deployment** | GitHub Pages + Namecheap custom domain |
 
