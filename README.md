@@ -1,7 +1,7 @@
-# 🌐 Hrushi Bhatt – Interactive Portfolio Website
+# 🌐 Hrushi Bhatt – Portfolio Website
 
 > **Showcasing my journey as a Computer Engineer**  
-> Built for **fast load times**, **clean design**, and **AI-driven projects**.
+> Built for **fast load times**, **clean design**, and **software/hardware projects**.
 
 [![Visit hrushibhatt.com](https://img.shields.io/badge/Visit-hrushibhatt.com-brightgreen?style=for-the-badge)](https://hrushibhatt.com)
 
