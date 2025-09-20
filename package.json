@@ -1,0 +1,17 @@
+{
+  "name": "hrushi-portfolio-fullstack",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Hrushi Bhatt portfolio site (full-stack)",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "vite": "^7.1.6"
+  }
+}
