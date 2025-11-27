@@ -62,9 +62,10 @@
         const typewriter = document.getElementById('typewriter');
         const phrases = [
             'B.S. in Computer Engineering',
-            'Software Developer',
-            'Prev Product Ops Intern @ Motorola',
-            'Applied AI Engineer',
+            'Embedded Software Engineer',
+            'Web Developer',
+            'Prev AI Product Engineer Intern @ Motorola Mobility',
+            'AI Engineer',
         ];
         
         let phraseIndex = 0;
